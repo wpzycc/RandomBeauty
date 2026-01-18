@@ -1,7 +1,7 @@
 // js/script.js - 终极修复版 v4 (修复下载按钮闪烁问题)
 
 // 默认示例 API。
-const API_URL = 'https://api.jkyai.top/API/sjmtzs.php';
+const API_URL = 'https://yunzhiapi.cn/API/sjmtzs.php';
 
 // ----- IndexedDB 简单封装 -----
 const DB_NAME = 'random_beauty_db';
@@ -959,3 +959,4 @@ window.clearHistory = clearHistory;
 window.clearFavorites = clearFavorites;
 window.clearCache = clearCache;
 window.clearStats = clearStats;
+
